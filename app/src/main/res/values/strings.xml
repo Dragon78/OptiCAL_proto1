@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OptiCAL_proto1</string>
+    <string name="Button_ImageCapture">New Image Capture</string>
+    <string name="Button_MyImages">My Images</string>
+    <string name="Button_Help">Help</string>
+    <string name="Button_CaptureImage">CAPTURE</string>
+    <string name="Button_CropAdjust">ADJUST</string>
+    <string name="Button_OCR">READ IMAGE</string>
+    <string name="Button_ConfirmEquation">Confirm</string>
+    <string name="HelpString">Sorry, no help is currently available for this application</string>
+</resources>
